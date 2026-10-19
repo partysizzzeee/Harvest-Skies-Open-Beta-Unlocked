@@ -1,4 +1,5 @@
 FEATURES
+--------
 Money cheat
 XP Cheat
 XP multiplier
@@ -15,6 +16,7 @@ Reworked menu system to be more user friendly
 Support for saving settings within the menu
 
 About the menu
+--------------
 The GUI has been completely reworked. There is now individual menus to open for each category
 The thought was that it would help keep the menu clean and allow for the user to keep only the tabs they use open
 Saved settings are now supported. This was mostly added because I got sick of resetting everything during testing, but its a nice feature
@@ -27,6 +29,7 @@ One note with the custom portraits: Please be respectful. I know I can't control
 One note as well for the contracts. All I did was add the support for the game to generate its own native contracts. Some are broken, some may soft lock you, some may just not work at all. More releases of the main game will come out somewhat soon that fix these problems, but they were too complex for me. If there are problems, I can look into them, but I am not promising anything.
 
 Installation (Windows)
+----------------------
 Download melon loader (https://github.com/LavaGang/MelonLoader/releases/download/v0.7.3/MelonLoader.x64.zip)
 
 Extract melon loader into root folder of harvest skies (where the .exe is)

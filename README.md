@@ -1,27 +1,46 @@
 FEATURES
 --------
 Money cheat
+
 XP Cheat
+
 XP multiplier
+
 Time scalar
+
 Plane physics tweaker (Weight, lift, drag, power, top speed)
+
 Rudder differential braking (Proportional to rudder input, basically acts like a "turn booster") Brakes are less effective the faster you go!
+
 Quick swap R1/L1 with R2/L2
+
 Portrait swapper for the family portrait with auto scaling
+
 Auto generate contracts upon sleeping
+
 Manual generate contracts (Spraying, Fire fighting, delivery)
+
 Force complete active contract
+
 GUI Scale and opacity sliders
+
 Reworked menu system to be more user friendly
+
 Support for saving settings within the menu
 
 About the menu
 --------------
+
 The GUI has been completely reworked. There is now individual menus to open for each category
+
 The thought was that it would help keep the menu clean and allow for the user to keep only the tabs they use open
+
 Saved settings are now supported. This was mostly added because I got sick of resetting everything during testing, but its a nice feature
+
 Plane physics were added. 5 parameters to completely transform how the game feels. YOU MUST PRESS APPLY WHILE IN THE PLANE
+
 Custom portraits were also added. Place any photo named "portrait.png" next to the mod in the mod folder, hop in the plane you want to change, and hit the swap button in the QOL menu. Hitting swap again reverts the change.
+
 Auto generate contract support was also added. No more keeping the menu open every time you want to generate a contract. Just sleep like the game intended and one will show up in the morning. There are also toggles for each type of contract, so if you don't want to use a crop duster for crop dusting, that is your choice I suppose.
 
 One note with the custom portraits: Please be respectful. I know I can't control the user, but please don't make me regret adding this feature.
